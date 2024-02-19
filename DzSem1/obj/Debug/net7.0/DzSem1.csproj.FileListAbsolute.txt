@@ -1,0 +1,14 @@
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\bin\Debug\net7.0\DzSem1.exe
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\bin\Debug\net7.0\DzSem1.deps.json
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\bin\Debug\net7.0\DzSem1.runtimeconfig.json
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\bin\Debug\net7.0\DzSem1.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\bin\Debug\net7.0\DzSem1.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\obj\Debug\net7.0\DzSem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\obj\Debug\net7.0\DzSem1.AssemblyInfoInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\obj\Debug\net7.0\DzSem1.AssemblyInfo.cs
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\obj\Debug\net7.0\DzSem1.csproj.CoreCompileInputs.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\obj\Debug\net7.0\DzSem1.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\obj\Debug\net7.0\refint\DzSem1.dll
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\obj\Debug\net7.0\DzSem1.pdb
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\obj\Debug\net7.0\DzSem1.genruntimeconfig.cache
+D:\GB\Основной курс\знакомство с языками программирования\Seminar1\DzSem1\obj\Debug\net7.0\ref\DzSem1.dll
