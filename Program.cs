@@ -47,39 +47,54 @@
 // 3 -> Среда
 // 5 -> Пятница
 
-Console.WriteLine("Введите число");
-int num=Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите число");
+// int num=Convert.ToInt32(Console.ReadLine());
 
-if(num == 1)
-{
-Console.WriteLine("Понедельник");
-}
-else if(num == 2)
-{
-Console.WriteLine("Вторник");
-}
-else if(num == 3)
-{
-Console.WriteLine("Среда");
-}
-else if(num == 4)
-{
-Console.WriteLine("Четверг");
-}
-else if(num == 5)
-{
-Console.WriteLine("Пятница");
-}
-else if(num == 6)
-{
-Console.WriteLine("Суббота");
-}
-else if(num == 7)
-{
-Console.WriteLine("Воскресенье");
-}
-else
-{
-Console.WriteLine("Такого дня нет");
-}
+// if(num == 1)
+// {
+// Console.WriteLine("Понедельник");
+// }
+// else if(num == 2)
+// {
+// Console.WriteLine("Вторник");
+// }
+// else if(num == 3)
+// {
+// Console.WriteLine("Среда");
+// }
+// else if(num == 4)
+// {
+// Console.WriteLine("Четверг");
+// }
+// else if(num == 5)
+// {
+// Console.WriteLine("Пятница");
+// }
+// else if(num == 6)
+// {
+// Console.WriteLine("Суббота");
+// }
+// else if(num == 7)
+// {
+// Console.WriteLine("Воскресенье");
+// }
+// else
+// {
+// Console.WriteLine("Такого дня нет");
+// }
 
+// Задача №5. Напишите программу, которая на
+// вход принимает одно число (N), а на выходе
+// показывает все целые числа в промежутке от
+// -N до N.
+// 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
+// 2 -> " -2, -1, 0, 1, 2"
+
+int num =5;
+int numNeg= -1*num;
+
+while(numNeg<=num)
+{
+Console.Write(numNeg+ " ");
+numNeg= numNeg+1;
+}
