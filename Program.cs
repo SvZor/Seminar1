@@ -90,11 +90,24 @@
 // 4 -> "-4, -3, -2, -1, 0, 1, 2, 3, 4"
 // 2 -> " -2, -1, 0, 1, 2"
 
-int num =5;
-int numNeg= -1*num;
+// int num =5;
+// int numNeg= -1*num;
 
-while(numNeg<=num)
-{
-Console.Write(numNeg+ " ");
-numNeg= numNeg+1;
-}
+// while(numNeg<=num)
+// {
+// Console.Write(numNeg+ " ");
+// numNeg= numNeg+1;
+// }
+
+// Задача №7. Напишите программу, которая
+// принимает на вход трёхзначное число и на
+// выходе показывает последнюю цифру этого числа.
+// 456 -> 6
+// 782 -> 2
+// 918 -> 8
+
+Console.WriteLine("Введите число");
+int num=Convert.ToInt32(Console.ReadLine());
+
+int result = num % 10;
+Console.WriteLine(result);
