@@ -106,8 +106,10 @@
 // 782 -> 2
 // 918 -> 8
 
-Console.WriteLine("Введите число");
-int num=Convert.ToInt32(Console.ReadLine());
+// Console.WriteLine("Введите число");
+// int num=Convert.ToInt32(Console.ReadLine());
 
-int result = num % 10;
-Console.WriteLine(result);
+// int result = num % 10;
+// Console.WriteLine(result);
+
+
